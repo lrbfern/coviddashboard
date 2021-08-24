@@ -1,2 +1,2 @@
 # coviddashboard
-Follow this link to view the dashboard online: https://mybinder.org/v2/gh/lrbfern/coviddashboard/main?filepath=%2Fvoila%2Frender%2FDashboard.ipynb
+Follow this link to view the dashboard online: https://hub.gke2.mybinder.org/user/lrbfern-coviddashboard-b54k4llp/voila/render/Dashboard.ipynb
